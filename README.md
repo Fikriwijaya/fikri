@@ -1,0 +1,2 @@
+# fikri
+Latihan buat folder
